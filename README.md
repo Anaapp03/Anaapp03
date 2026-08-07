@@ -2,8 +2,7 @@
 
 💻 Atualmente trabalhando com Suporte Técnico e Hardware  
 📖 Atualmente aprendendo Redes de Computadores e Lógica de Programação  
-🛡️ Buscando colaborar em projetos para iniciantes, grupos de estudo de CTF (Capture the Flag) e ferramentas de segurança de código aberto  
-🔗 Como me encontrar: www.linkedin.com/in/ana-peres-8384abc  
+🛡️ Buscando colaborar em projetos para iniciantes, grupos de estudo de CTF (Capture the Flag) e ferramentas de segurança de código aberto    
 🎲 Pronomes: ela/dela
 
 <br>
@@ -22,7 +21,11 @@
 <img align="center" alt="Ana-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
 <img align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
-          
+
+##
+<div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anac.techno@gmail.com)
+</div>
           
 </div>
           
