@@ -10,7 +10,8 @@
 <div>
 <a href="https://github.com/Anaapp03">
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Anaapp03&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1008e0cc-66c7-4879-bd8c-981e9d1eda07" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anaapp03&layout=compact&langs_count=16&theme=tokyonight"/>
+</a>
 
 </a>
 <div style="display: inline_block"><br>
