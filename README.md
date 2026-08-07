@@ -10,7 +10,8 @@
 <div>
 <a href="https://github.com/Anaapp03">
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Anaapp03&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anaapp03&layout=compact&langs_count=16&theme=calm"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1008e0cc-66c7-4879-bd8c-981e9d1eda07" />
+
 </a>
 <div style="display: inline_block"><br>
 <img align="center" alt="Ana-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg">
