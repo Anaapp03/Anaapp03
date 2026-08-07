@@ -13,7 +13,6 @@
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Anaapp03&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anaapp03&layout=compact&langs_count=16&theme=calm"/>
 </a>
-</div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Ana-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg">
 <img align="center" alt="Ana-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
@@ -22,8 +21,9 @@
 <img align="center" alt="Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 <img align="center" alt="Ana-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
 <img align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" alt="Ana-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="center" alt="Ana-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+</div>
           
           
 </div>
