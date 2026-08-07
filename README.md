@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Ana 
 
 - 💻 I’m currently working on Technical Support
 - 📖 I’m currently learning Computer Networks and Programming Logic
