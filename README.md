@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td width="70%">
-      <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=false&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Clara%21;Seja+bem-vindo%28a%29+ao+meu+perfil%21" alt="Typing Effect" />
+    <p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=1F6FEB&center=false&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Clara%21;Seja+bem-vindo%28a%29+ao+meu+perfil%21" alt="Typing Effect" />
 </p>
       <p>Atualmente sou estudante de Ciência da Computação do segundo período na UCDB, com foco e grande interesse em <strong>Cybersecurity</strong> (principalmente na parte de defesa) e <strong>Redes de Computadores</strong>. No momento, estou aprofundando meus estudos em Redes e Lógica de Programação.</p>
       <p>Além disso, busco colaborar em projetos para iniciantes. Você pode entrar em contato comigo através do meu usuário (<strong>ana_cybers</strong>) no Discord!</p>
