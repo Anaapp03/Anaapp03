@@ -39,7 +39,10 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />&nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" />&nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
-
+  
+<h3 style="font-family: 'JetBrains Mono', monospace; color: #FF79C6; margin-bottom: 10px;">
+  Redes Sociais
+</h3>
 <div>
   <a href="mailto:anac.techno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%2333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/ana-peres-8384abc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
