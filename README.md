@@ -27,7 +27,6 @@
 </table>
 </a>
 </a>
-
 <br>
 <h3 style="font-family: 'JetBrains Mono', monospace; color: #FF79C6; margin-bottom: 10px;">
   Ferramentas utilizadas
