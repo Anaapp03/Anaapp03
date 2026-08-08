@@ -1,15 +1,12 @@
 <table>
   <tr>
     <td width="60%">
-      <! Olá, eu sou a Ana Clara!
-Atualmente sou estudante de Ciência da Computação do segundo período na UCDB, com foco e grande interesse em Cybersecurity (principalmente na parte de defesa) e Redes de Computadores. Atualmente, estou aprofundando meus estudos justamente em Redes e Lógica de Programação, estou buscando evoluir na área de tecnologia! -->
+### Olá, eu sou a Ana Clara!
+
+Atualmente sou estudante de Ciência da Computação do segundo período na UCDB, com foco e grande interesse em **Cybersecurity** (principalmente na parte de defesa) e **Redes de Computadores**. No momento, estou aprofundando meus estudos em Redes e Lógica de Programação. Além disso, busco colaborar em projetos para iniciantes. Você pode entrar em contato comigo através do meu usuário (**ana_cybers**) no Discord!  -->
       <h1>Olá, eu sou a Ana!</h1>
-      <p>Atualmente trabalhando com Suporte Técnico e Hardware</p>
-      <p>Atualmente aprendendo Redes de Computadores e Lógica de Programação</p>
-      <p>Buscando colaborar em projetos para iniciantes...</p>
     </td>
     <td width="40%" align="center">
-      <!-- COLE O CÓDIGO DO SEU GIF AQUI -->
       <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100%" alt="GIF do Perfil" />
     </td>
   </tr>
