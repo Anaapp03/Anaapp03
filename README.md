@@ -1,19 +1,15 @@
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h1 style="margin-top: 0;">Olá, eu sou a Ana Clara!</h1>
-      
+    <td width="60%">
+      <h3>Olá, eu sou a Ana Clara!</h3>
       <p>Atualmente sou estudante de Ciência da Computação do segundo período na UCDB, com foco e grande interesse em <strong>Cybersecurity</strong> (principalmente na parte de defesa) e <strong>Redes de Computadores</strong>. No momento, estou aprofundando meus estudos em Redes e Lógica de Programação.</p>
-      
       <p>Além disso, busco colaborar em projetos para iniciantes. Você pode entrar em contato comigo através do meu usuário (<strong>ana_cybers</strong>) no Discord!</p>
     </td>
-    
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100%" alt="GIF do Perfil" style="display: block;" />
+      <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100%" alt="GIF do Perfil" />
     </td>
   </tr>
 </table>
-<br>
 
 <div>
 <a href="https://github.com/Anaapp03">
