@@ -10,8 +10,8 @@
 
 <div>
 <a href="https://github.com/Anaapp03">
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Anaapp03&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anaapp03&layout=compact&langs_count=16&theme=calm"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=Anaapp03&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anaapp03&layout=compact&langs_count=16&theme=calm"/>
 </a>
 
 </a>
