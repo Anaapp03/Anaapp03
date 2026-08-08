@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center">
-      <img height="170em" src="https://github-stats-extended.vercel.app/api?username=Anaapp03&show_icons=true&theme=calm&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img height="170em" src="https://github-stats-extended.vercel.app/api?username=Anaapp03&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anaapp03&layout=compact&langs_count=16&theme=calm" alt="Most Used Languages" />
