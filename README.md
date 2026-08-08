@@ -3,7 +3,7 @@
 💻 Atualmente trabalhando com Suporte Técnico e Hardware  
 📖 Atualmente aprendendo Redes de Computadores e Lógica de Programação  
 🛡️ Buscando colaborar em projetos para iniciantes, grupos de estudo de CTF (Capture the Flag) e ferramentas de segurança de código aberto  
-🔗 onde me encontrar: ana_cybers no Discord!
+🔗 Onde me encontrar: ana_cybers no Discord!
 🎲 Pronomes: ela/dela
 
 <br>
