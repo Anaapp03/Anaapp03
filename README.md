@@ -27,9 +27,6 @@
 </table>
 </a>
 
-<h3 style="font-family: 'JetBrains Mono', monospace; color: #FF79C6;">
-  Ferramentas utilizadas
-</h3>
 </a>
 <div style="display: inline_block"><br>
 <img align="center" alt="Ana-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg">
