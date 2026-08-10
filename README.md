@@ -39,7 +39,6 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" />&nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />&nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" />&nbsp;
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
   
 <h3 style="font-family: 'JetBrains Mono', monospace; color: #FF79C6; margin-bottom: 10px;">
   Redes Sociais
