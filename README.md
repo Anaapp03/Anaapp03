@@ -9,7 +9,7 @@
     </td>
     <td width="30%" align="center">
       <p align="center">
-  <img src="https://media.tenor.com/F_J8z5t7r9AAAAAi/pokemon-mudkip-animated.gif" width="250px" alt="GIF do Mudkip" />
+        <img src="https://media.tenor.com/F_J8z5t7r9AAAAAi/pokemon-mudkip-animated.gif" width="100%" alt="GIF do Mudkip" />
 </p>
     </td>
   </tr>
