@@ -30,7 +30,7 @@
 </a>
 
 <h3 style="font-family: 'JetBrains Mono', monospace; color: #FF79C6; margin-bottom: 10px;">
-  Ferramentas utilizadas
+  Principais ferramentas utilizadas
 </h3>
 
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows" />&nbsp;
