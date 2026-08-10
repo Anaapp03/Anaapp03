@@ -8,8 +8,7 @@
       <p>Além disso, busco colaborar em projetos para iniciantes. Você pode entrar em contato comigo através do meu usuário (<strong>ana_cybers</strong>) no Discord!</p>
     </td>
     <td width="30%" align="center">
-      <p align="center">
-  <img src="./pokemon-mudkip.gif" width="200px" alt="Mudkip" />
+      <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100%" alt="GIF do Perfil" />
 </p>
     </td>
   </tr>
